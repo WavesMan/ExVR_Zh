@@ -1,6 +1,9 @@
 # ExVR: 体验虚拟现实
 为无VR玩家提供更好的体验
 
+## 项目基础
+基于[xiaofeiyu0723:ExVR](https://github.com/xiaofeiyu0723/ExVR)进行了汉化，创建虚拟环境安装与运行
+
 ## 语言
 [简体中文](https://github.com/WavesMan/ExVR_Zh/blob/main/readme.md) / [English](https://github.com/WavesMan/ExVR_Zh/blob/main/readme_en.md)
 
