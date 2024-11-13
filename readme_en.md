@@ -2,8 +2,18 @@
 
 This is a project for PC users who want to experience VR without a headset.
 
+## Project Overview  
+This project is a Chinese localization based on [xiaofeiyu0723:ExVR](https://github.com/xiaofeiyu0723/ExVR), with a focus on setting up and running in a virtual environment.
+
 ## Language
 [简体中文](https://github.com/WavesMan/ExVR/blob/main/readme_zh.md) / [English](https://github.com/WavesMan/ExVR/blob/main/readme.md)
+
+## How to Start  
+- **It is recommended to use a virtual environment for installation and operation**  
+- First, run `0.Install_in_venv.bat`  
+  **Follow the prompts in the command window during the process**  
+- After that, run `1.Start_in_venv.bat`  
+  **Do not close the command window after launching the GUI**
 
 ## Usage
 
