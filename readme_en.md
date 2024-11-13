@@ -11,9 +11,9 @@ This project is a Chinese localization based on [xiaofeiyu0723:ExVR](https://git
 ## How to Start  
 - **It is recommended to use a virtual environment for installation and operation**  
 - First, run `0.Install_in_venv.bat`  
-  **Follow the prompts in the command window during the process**  
+    (**Follow the prompts in the command window during the process**  
 - After that, run `1.Start_in_venv.bat`  
-  **Do not close the command window after launching the GUI**
+    (**Do not close the command window after launching the GUI**
 
 ## Usage
 
