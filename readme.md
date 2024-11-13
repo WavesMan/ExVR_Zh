@@ -4,6 +4,13 @@
 ## 语言
 [简体中文](https://github.com/WavesMan/ExVR_Zh/blob/main/readme.md) / [English](https://github.com/WavesMan/ExVR_Zh/blob/main/readme_en.md)
 
+## 如何启动
+- **建议您使用虚拟环境安装运行**
+- 首先运行`0.Install_in_venv.bat`
+     **运行时请按命令提示框提示操作**
+- 在运行`1.Start_in_venv.bat`
+     **启动GUI窗口后请勿退出命令提示框**
+
 ## 用法
 
 TODO
