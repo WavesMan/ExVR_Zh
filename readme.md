@@ -2,7 +2,7 @@
 为无VR玩家提供更好的体验
 
 ## 语言
-[简体中文](https://github.com/WavesMan/ExVR/blob/main/readme_zh.md) / [English](https://github.com/WavesMan/ExVR/blob/main/readme.md)
+[简体中文](https://github.com/WavesMan/ExVR_Zh/blob/main/readme.md) / [English](https://github.com/WavesMan/ExVR_Zh/blob/main/readme_en.md)
 
 ## 用法
 
